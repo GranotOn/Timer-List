@@ -1,0 +1,8 @@
+# [time] [time_type],[task]
+# time types for seconds: s/sec/second/seconds
+# time types for minutes: m/min/minute/minutes
+# time types for hours: h/hour/hours
+1 sec,Showcase finished task
+1 m,Showcase progress bar
+45 min,Rest
+1 h,Study
